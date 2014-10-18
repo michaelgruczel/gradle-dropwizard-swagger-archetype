@@ -1,0 +1,25 @@
+# out folders
+build/
+out/
+target/
+
+# Gradle
+.gradle/
+
+# Log
+logs/
+
+# Mac OS X
+.DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings
+.classpath
+.project
+/bin
